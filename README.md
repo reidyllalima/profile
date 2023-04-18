@@ -22,7 +22,7 @@
   
 </div>
 
-<h3 align="left">:rocket: Em evolução: </h3>
+<h3 align="left">:rocket: Já tive ou tenho um pouco de contato com essas tecnologias: </h3>
 
 <div>
 
