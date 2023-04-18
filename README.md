@@ -12,7 +12,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reidyllalima&layout=compact&theme=tokyonight"/>
 </div>
 
-<h3>🔍 Onde você pode me encontrar:</h4>
+<h4>🔍 Onde você pode me encontrar:</h4>
 <div>
  
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagr.am/reidylla.lima)
