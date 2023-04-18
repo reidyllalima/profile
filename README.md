@@ -37,7 +37,7 @@
   
 </div>
 
-<h3 align="left">:target: O que quero estudar: </h3>
+<h3 align="left">:mark: O que quero estudar: </h3>
 
 <div>
 
