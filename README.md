@@ -1,5 +1,5 @@
 <h1 align="center"> Hello, World! :computer:</h1>
-<h5 align="justify"> Oii, tudo bem? Me chamo Reidylla Lima 👩🏽‍💻, atualmente sou Analista de Redes e sou Bacharel em Sistemas de Informação (UFRPE) e Técnica em Desenvolvimento de Sistemas (ETE). No tempo livre (e até quando não estou livre), gosto de desenvolver, seja web, mobile.. Então vez ou outra vou subir alguns projetinhos por aqui. 
+<h5 align="justify"> Eai pessoal, tudo bem? Me chamo Reidylla Lima, atualmente sou Analista de Redes 👩🏽‍💻 na RNP, formada em Sistemas de Informação (UFRPE) e Técnica em Desenvolvimento de Sistemas (ETE). No tempo livre (e até quando não estou livre rs), gosto de desenvolver, seja web, mobile.. Então vez ou outra vou subir alguns projetinhos por aqui.  
   <br>
   <br>
   Ainda preciso aprender muito, mas, dedicação e vontade de aprender não faltam. Estou empenhada em manter meus estudos atualizados e consequentemente, meus repositórios também. 
