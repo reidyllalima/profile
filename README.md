@@ -1,4 +1,4 @@
-<h1 align="center"> Hello, World! :computer:</h1>
+<h1 align="left"> Hello, World! 🙋‍♀️</h1>
 <h5 align="justify"> Eai pessoal, tudo bem? Me chamo Reidylla Lima, atualmente sou Analista de Redes 👩🏽‍💻 na RNP, formada em Sistemas de Informação (UFRPE) e Técnica em Desenvolvimento de Sistemas (ETE). No tempo livre (e até quando não estou livre rs), gosto de desenvolver, seja web, mobile.. Então vez ou outra vou subir alguns projetinhos por aqui.  
   <br>
   <br>
