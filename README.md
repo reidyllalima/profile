@@ -22,7 +22,7 @@
   
 </div>
 
-<h3 align="left"> 🎯 Já tive contato: </h3>
+<h4 align="left"> 🎯 Já tive contato: </h4>
 
 <div>
 
@@ -37,7 +37,7 @@
   
 </div>
 
-<h3 align="left">🚀 Próximo nível: </h3>
+<h4 align="left">🚀 Próximo nível: </h4>
 
 <div>
 
