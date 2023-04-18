@@ -8,8 +8,8 @@
   Seja muito bem-vindo(a)! 😃</h5>
 
 <div align="justify">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoluizramos96&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoluizramos96&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=reidyllalima&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reidyllalima&layout=compact&theme=tokyonight"/>
 </div>
 
 <h3>🔍 Onde você pode me encontrar:</h4>
