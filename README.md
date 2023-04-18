@@ -22,7 +22,7 @@
   
 </div>
 
-<h3 align="left">:rocket: Já tive contato: </h3>
+<h3 align="left">🎯 Já tive contato: </h3>
 
 <div>
 
@@ -37,7 +37,7 @@
   
 </div>
 
-<h3 align="left">:mark: O que quero estudar: </h3>
+<h3 align="left">🚀 Próximo nível: </h3>
 
 <div>
 
