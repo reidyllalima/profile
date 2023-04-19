@@ -1,6 +1,6 @@
 <p align="left">
 <h2>
-	<b> <span>  </span>Hello, World! </b>  <img align="left" src="hello-world.gif" width="29px">
+	<b>Hello, World! </b>  <img align="left" src="hello-world.gif" width="25px">
 </h2>
 </p>
 <h5 align="justify"> Eai pessoal, tudo bem? Me chamo Reidylla Lima, atualmente sou Analista de Redes 👩🏽‍💻 na RNP, formada em Sistemas de Informação (UFRPE) e Técnica em Desenvolvimento de Sistemas (ETE). No tempo livre (e até quando não estou livre rs), gosto de desenvolver, seja web, mobile.. Então vez ou outra vou subir alguns projetinhos por aqui.  
